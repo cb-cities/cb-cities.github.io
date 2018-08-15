@@ -22,5 +22,5 @@ s
 
 [Gerry Casey](mailto:gerard.casey@arup.com)
 [krishna Kumar](mailto:kks32@cam.ac.uk)
-[Bing Zhao](bz247@cam.ac.uk)
+[Bing Zhao](mailto:bz247@cam.ac.uk)
 
