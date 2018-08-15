@@ -14,9 +14,14 @@ Conceptually the networks describe the graph data strcuture, as shown below. ![F
 
 1. [GTFS Graph Generation](https://github.com/cb-cities/gtfs_graph)
 2. [GML explorer](https://github.com/cb-cities/gml-explorer)
-s
+
 #### Models
+
 1. [ABM]()
+
+### Publications
+
+[A Scalable Agent Based Multi-modal Modeling Framework Using Real-Time Big-Data Sources for Cities](https://trid.trb.org/view/1439361), TRB, 2017.
 
 ### Contact
 
