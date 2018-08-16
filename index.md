@@ -4,7 +4,7 @@
 
 cb-cities is a colloboration between the University of Cambridge and UC, Berkeley.
 
-### Repositories
+### Modelling framework
 
 The modelling framework is shown below. ![Figure 1](Picture1.png)
 
