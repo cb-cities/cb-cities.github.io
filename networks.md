@@ -9,4 +9,5 @@ The outputted PT and road network objects are defined as shown below ![Figure 3]
 3. [GML Directionality](https://github.com/cb-cities/gml-directionality)
 4. [Temporal Weights](https://github.com/cb-cities/temporal_weights)
 5. [TfL Feeds]()
-6. [TfL GTFS]()
+
+[TfL GTFS](https://github.com/cb-cities/tflgtfs) - An automated script for harvesting the TfL feeds, converting them to GTFS (using the super [CommuteStream tool](https://github.com/CommuteStream/tflgtfs)) and posting the results hourly to an S3 bucket.
