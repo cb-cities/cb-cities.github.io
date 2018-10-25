@@ -4,13 +4,13 @@
 
 cb-cities is a colloboration between the University of Cambridge and UC, Berkeley. We mostly work on dynamic simulations of urban systems, such as the transportation and water networks. 
 
-<!--### Modelling framework
+### Modelling framework
 
-The modelling framework is shown below. ![Figure 1](Picture1.png)
+<!--The modelling framework is shown below. ![Figure 1](Picture1.png)-->
 
 1. [Networks](./networks.html)
 2. [Modelling](./modelling.html)
-3. [Visualisation](./visualisation.html)-->
+3. [Visualisation](./visualisation.html)
 
 ### Publications
 
